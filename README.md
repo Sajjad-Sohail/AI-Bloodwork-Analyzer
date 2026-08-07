@@ -40,6 +40,17 @@ LLM Health/Diet Analysis
 Streamlit Results
 ```
 
+## Screenshots
+<img width="1914" height="891" alt="image" src="https://github.com/user-attachments/assets/c8d3877f-7533-4c3e-b4ab-f248805fe318" />
+<img width="1912" height="890" alt="image" src="https://github.com/user-attachments/assets/12904ac7-d86a-47e0-81d6-a2ed7da2560f" />
+<img width="1912" height="891" alt="image" src="https://github.com/user-attachments/assets/cc55d191-5519-480e-87b0-cfebefc33d8c" />
+<img width="1909" height="891" alt="image" src="https://github.com/user-attachments/assets/063cc06f-57bf-41d0-8308-a155bc5c9b37" />
+
+
+
+
+
+
 ## Tech Stack
 
 - Python
